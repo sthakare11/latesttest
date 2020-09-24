@@ -1,1 +1,1 @@
-FROM registry.redhat.io/ubi8/nodejs-12:latest
+FROM registry.redhat.io/openshift3/jenkins-2-rhel7
