@@ -1,1 +1,1 @@
-FROM registry.connect.redhat.com/agile-lab/wasp-consumers-batch
+FROM registry.connect.redhat.com/anaconda/nginx-proxy
