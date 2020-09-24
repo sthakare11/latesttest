@@ -1,1 +1,1 @@
-FROM registry.redhat.io/openshift3/jenkins-2-rhel7
+FROM registry.connect.redhat.com/agile-lab/wasp-consumers-batch
