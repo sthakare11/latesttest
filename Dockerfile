@@ -1,1 +1,1 @@
-FROM registry.connect.redhat.com/anaconda/nginx-proxy
+FROM registry.connect.redhat.com/anaconda/nginx-proxy:latest
